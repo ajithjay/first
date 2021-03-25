@@ -1,0 +1,12 @@
+.header{
+    background-color:blue
+}
+.header:hover{
+    background-color:green;
+}
+.row:nth-child(even){
+    background-color: grey;
+}
+.row:hover:nth-child(odd){
+    background-color: indigo;
+}
